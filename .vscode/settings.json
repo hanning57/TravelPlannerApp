@@ -1,0 +1,10 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.project.sourcePaths": [
+    "src/main/java",
+    "src/test/java"
+  ],
+  "java.project.outputPath": "target/classes",
+  "maven.executable.path": "mvn",
+  "java.compile.nullAnalysis.mode": "automatic"
+}
